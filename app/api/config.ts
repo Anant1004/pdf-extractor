@@ -1,0 +1,1 @@
+export const SERPAPI_KEY = "baa23eee06ca2c51b2d3794207bacd7a30395e97541becf183c409838164b791";
